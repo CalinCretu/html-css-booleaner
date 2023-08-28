@@ -1,0 +1,24 @@
+ul, ol, menu {
+    list-style: none;
+}
+
+header {
+    background-color: rgb(1, 153, 241);
+    background-image: url("./img/pattern.png");
+    padding: 10px;
+    height: 150px;
+    
+}
+
+#logo__booleaner {
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
+    width: 300px;
+    height: 150px;
+    margin-top: 25px;
+}
+
+main {
+    font-family: 'Times New Roman', Times, serif;
+}
