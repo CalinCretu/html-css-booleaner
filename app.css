@@ -43,7 +43,7 @@ ul {
     list-style-position: inside;
  }
 
- table {
+table {
     border-collapse: collapse;
  }
 
@@ -57,3 +57,20 @@ thead th {
     background: #66ceee;
 }
 
+#footer {
+    font-size: large;
+    line-height: 40%;
+    font-weight: 600;
+    margin-top: 5%;
+}
+
+.footer_table {
+    height: 250px;
+    width: 250px;
+    margin-top: 1%;
+}
+
+.footer_th {
+    font-size: 25px;
+    vertical-align: top;
+}
