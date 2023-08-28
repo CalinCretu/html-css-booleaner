@@ -43,4 +43,17 @@ ul {
     list-style-position: inside;
  }
 
- 
+ table {
+    border-collapse: collapse;
+ }
+
+thead th {
+    width: 10%;
+    background: rgb(1, 153, 241);
+    color: white;
+}
+
+.highlighted {
+    background: #66ceee;
+}
+
